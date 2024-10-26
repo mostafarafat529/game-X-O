@@ -1,0 +1,47 @@
+[
+    {
+        "title":"why we use <br> element",
+        "answer_1": "text bold",
+        "answer_2": "text italik",
+        "answer_3": "breakline",
+        "answer_4": "horizontal line",
+        "right_answer":"breakline"
+    },
+    
+    {
+        "title":"2 * 5 ",
+        "answer_1": "7",
+        "answer_2": "3",
+        "answer_3": "10",
+        "answer_4": "15",
+        "right_answer":"10"
+    },
+    
+    {
+        "title":"15 + 3 ",
+        "answer_1": "18",
+        "answer_2": "45",
+        "answer_3": "12",
+        "answer_4": "5",
+        "right_answer":"18"
+    },
+    
+    {
+        "title":" 2 * 5 + 3 / 3",
+        "answer_1": "15",
+        "answer_2": "11",
+        "answer_3": "12",
+        "answer_4": "13/3",
+        "right_answer":"11"
+    },
+    
+    {
+        "title":"6 + 2 * 3 / 2 ",
+        "answer_1": "9",
+        "answer_2": "10",
+        "answer_3": "11",
+        "answer_4": "12",
+        "right_answer":"9"
+    }
+    
+]

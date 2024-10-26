@@ -1,0 +1,33 @@
+.game{
+    width: 255px;
+    margin: auto;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+
+}
+.title{
+ background-color: rgb(7, 47, 102);
+ padding: 10px ;
+ margin: 10px  0 0 ;
+}
+span{
+    color: rgb(205, 13, 96);
+}
+.box{
+display: grid;
+grid-template-columns: repeat(3 , 1fr);
+gap: 5px;
+padding: 10px;
+}
+.square{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(7, 47, 102);
+    font-size: 45px;
+    
+}
+.square:hover{
+    background-color : #000 ;
+    cursor : pointer ;
+}
